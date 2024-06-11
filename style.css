@@ -38,3 +38,21 @@
 .categories img{
     width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    margin-right: 15px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe p{
+    color: gray;
+}
+footer{
+    text-align: center;
+}
